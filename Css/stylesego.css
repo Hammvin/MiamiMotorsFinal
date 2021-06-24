@@ -1,0 +1,48 @@
+#logo{
+    height: 17vh;
+}
+
+h6{
+    text-align: center;
+}
+
+.img-thumbnail{
+    height: 200px;
+
+}
+
+.carousel-item{
+    height:80vh;
+    padding-bottom: 80px;
+}
+#deals{
+    padding-top: 20px;
+}
+
+.deals{
+    line-height: 20vh;
+}
+
+#emblem{
+    background-color: black;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    color: white;
+}
+
+.footer{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color: gray;
+}
+
+.card{
+    height: 50vh;
+}
+
+.contacts-end{
+    text-align: center;
+}
+
+
+
